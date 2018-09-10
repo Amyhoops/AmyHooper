@@ -1,5 +1,3 @@
-# About me
-
 After 5 years working for a non-profit open data start up (Figure.NZ) working in all areas of the organisation from data visualisation, product management to marketing, operations and HR - I am after a new challenge.
 
 I am interested in work that includes strategy, advisory services, PeopleOps, team processes, organisation culture, and how we get people working together to create great things. Problem solving is my jam, and my mantra is ‘I don’t know but I will figure it out’.
