@@ -29,6 +29,7 @@ Helped take Figure.NZ from a 2-person start-up non-profit to a 10-person sustain
 **Customer Success Agent at Vend, Auckland**
 
 **Jan 2013 – Dec 2014**
+
 Providing technical support for various online and physical retail stores. Gained experience in retail business day to day running, various accounting requirements and inventory maintenance.
 
 
@@ -54,7 +55,6 @@ Research Design & Statistics, Research methods, Industrial & Organisational Psyc
 ## Skills and experience
 
 - Ability to observe situations, analyse and act based on this.
-
 - Great interpersonal communication
 - Fast learner
 - Analytical knowledge
@@ -67,7 +67,6 @@ Research Design & Statistics, Research methods, Industrial & Organisational Psyc
 ## Hobbies, interests and volunteer work
 
 - Consuming media of all sorts for both fun and because I get curious about things – movies, music, documentaries and reading all of the things.
-
 - Gardening.
 - Travel and exploring.
 - Volunteering at Gather Unconference, helping run the support crew throughout the day.
