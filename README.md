@@ -6,6 +6,8 @@ I am interested in work that includes strategy, advisory services, PeopleOps, te
 
 I am working to be my authentic self, and through kindness, encourage others to be their best self. I find opportunity through connection, and truly believe that by helping others, we all benefit.
 
+
+
 ## Experience
 
 **Product Manager at Figure.NZ**
@@ -15,11 +17,12 @@ I am working to be my authentic self, and through kindness, encourage others to 
 Helped take Figure.NZ from a 2-person start-up non-profit to a 10-person sustainable organisation. My role has varied throughout my time here, starting with data visualisation, marketing and communications, research and strategy. Most recently my role has been in product management, coordinating the development, product teams with the rest of the organisation. I also gained experience in onboarding, team management, remote working and managing people as we scale.
 
 **Key achievements:**
-·      Part of research and building of the data processing platform behind the website, which provides us the ability to process, standardise datasets into tables, and then create custom and templated charts from the data easily and efficiently.
-·      Performed several iterations of the website into its current form today.
-·      Successful collaboration with a large bank to deliver a product designed to help SMEs make more informed decisions. Work from creating this product also informed us how to better link and relate various datasets together for better search results for the main website and structure for the data processing platform. See it here: figure.nz/business
-·      Creation of a guide for everything to do with Figure.NZ, that allows staff, the public and other organisations to understand more about our organisational processes, remote working and how we are working.
-·      Set up and running of Google Ads account with charity grant of 10K US per month, consistently hitting targets and objectives.
+
+- Part of research and building of the data processing platform behind the website, which provides us the ability to process, standardise datasets into tables, and then create custom and templated charts from the data easily and efficiently.
+- Performed several iterations of the website into its current form today.
+- Successful collaboration with a large bank to deliver a product designed to help SMEs make more informed decisions. Work from creating this product also informed us how to better link and relate various datasets together for better search results for the main website and structure for the data processing platform. See it here: figure.nz/business
+- Creation of a guide for everything to do with Figure.NZ, that allows staff, the public and other organisations to understand more about our organisational processes, remote working and how we are working.
+- Set up and running of Google Ads account with charity grant of 10K US per month, consistently hitting targets and objectives.
 
 
 
@@ -37,6 +40,8 @@ Providing technical support for various online and physical retail stores. Gaine
 
 Successful client management of a large retail group. Work included website and CMS maintenance, online and eDM campaigns, SEO and PPC and product testing.
 
+
+
 ## Qualification
 
 **Bachelor of Arts – Psychology**
@@ -48,25 +53,26 @@ Research Design & Statistics, Research methods, Industrial & Organisational Psyc
 
 ## Skills and experience
 
-·      Ability to observe situations, analyse and act based on this.
-·      Great interpersonal communication
-·      Fast learner
-·      Analytical knowledge
-·      Adept at most software platforms
-·      CMS experience
-·      SEO experience + Google Ads
-·      Content marketing – ability to conceptualise and execute effective campaigns
-·      Basic CSS and HTML experience, learning Python
-·      Basic SQL experience
+- Ability to observe situations, analyse and act based on this.
+
+- Great interpersonal communication
+- Fast learner
+- Analytical knowledge
+- Adept at most software platforms
+- CMS experience
+- SEO experience + Google Ads
+- Content marketing – ability to conceptualise and execute effective campaigns
+- Basic CSS and HTML experience, learning Python
 
 ## Hobbies, interests and volunteer work
 
-·      Consuming media of all sorts for both fun and because I get curious about things – movies, music, documentaries and reading all of the things.
-·      Gardening.
-·      Travel and exploring.
-·      Volunteering at Gather Unconference, helping run the support crew throughout the day.
-·      Part of a charity that repurposes used mobile and laptop hardware to be available to the women and children at Women’s Refuge (Auckland).
-·      Set up and manage Google AdWords accounts for non-profits (Google offers a 10k/month grant for non-profits)
+- Consuming media of all sorts for both fun and because I get curious about things – movies, music, documentaries and reading all of the things.
+
+- Gardening.
+- Travel and exploring.
+- Volunteering at Gather Unconference, helping run the support crew throughout the day.
+- Part of a charity that repurposes used mobile and laptop hardware to be available to the women and children at Women’s Refuge (Auckland).
+- Set up and manage Google AdWords accounts for non-profits (Google offers a 10k/month grant for non-profits)
 
 ## References
 
